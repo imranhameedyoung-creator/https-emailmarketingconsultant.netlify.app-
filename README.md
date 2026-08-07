@@ -524,9 +524,11 @@ footer{background:#06101A;padding:36px 0;border-top:1px solid rgba(255,255,255,.
     </div>
     <h2 class="h2">Ready to Make Email Your <em>#1 Revenue Channel?</em></h2>
     <p class="fcta-sub">In one free 30-minute call, I'll identify your three biggest email revenue leaks and give you a clear roadmap to fix them — whether we work together or not.</p>
-    <button class="btn-amber" style="font-size:16px;padding:18px 38px" onclick="alert('Connect your booking tool here — Calendly, Cal.com, or TidyCal work great.')">
-      &#128197; Book Your Free 30-Minute Discovery Call
-    </button>
+    <a href="https://calendly.com/imranhameedyoung/30min" target="_blank" class="btn-amber" style="font-size:16px;padding:18px 38px;display:inline-block;text-decoration:none;">
+    &#128197; Book Your Free 30-Minute Discovery Call
+</a>
+      
+    
     <p class="cta-note">
       No sales pressure<span>·</span>No commitment required<span>·</span>100% focused on your results
     </p>
@@ -543,6 +545,8 @@ footer{background:#06101A;padding:36px 0;border-top:1px solid rgba(255,255,255,.
         <li><a href="#services">Services</a></li>
         <li><a href="#proof">Results</a></li>
         <li><a href="#cta">Contact</a></li>
+        <li><a href="tel:+923001234567">📞 +92 321 4130730</a></li>
+<li><a href="mailto:your-email@gmail.com">✉️ imranhameedyoung@gmail.com</a></li>
       </ul>
       <p class="footer-copy">&copy; 2025 Email Marketing Consultant. All rights reserved.</p>
     </div>
